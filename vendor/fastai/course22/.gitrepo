@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/fastai/course22.git
+	branch = master
+	commit = 230390584ba5b990e20487d68681a9ec5b258eff
+	parent = 9ed9c7374a1dcee8925990ac4304b00f0bbaeaf7
+	method = merge
+	cmdver = 0.4.9
